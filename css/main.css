@@ -1,0 +1,13 @@
+
+        body { 
+            background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Proyecto_en_construccion.jpg/640px-Proyecto_en_construccion.jpg" ); 
+            background-position: center -30%; 
+            background-size: cover; 
+            width: 800;
+            height: 900;
+        } 
+    img{
+        display: block;
+        margin: auto;
+        text-align: center;
+    }

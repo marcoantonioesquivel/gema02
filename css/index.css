@@ -1,0 +1,13 @@
+body {
+              background-image: url("http://blog.aulaformativa.com/wp-content/uploads/2016/06/fondos-de-pantalla-para-programadores-MatrixWallpaper.jpg");
+      
+         }
+      p{
+        text-align: center;
+      }
+      img {
+        text-align: center;
+      }
+      .ng{
+        background-position: center center;
+      }
